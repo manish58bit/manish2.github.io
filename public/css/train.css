@@ -1,0 +1,21 @@
+.train-wrapper {
+  overflow: hidden;
+}
+.hero-train {
+  position: absolute;
+  animation: moveTrain 5s linear infinite;
+}
+/* Keyframes to move the train from left (off-screen) to right */
+@keyframes moveTrain {
+  0% {
+    transform: translate3d(-100%, 0%, 0px) * Start position
+      (off-screen to the left);
+  }
+  100% {
+    transform: translate3d(
+      100%,
+      0%,
+      0px
+    ); /* End position (completely past the right edge) */
+  }
+}

@@ -1,0 +1,31 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.25" clip-path="url(#clip0_796_12881)">
+<g opacity="0.75">
+<g filter="url(#filter0_f_796_12881)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M519.576 60L959.787 571.902L959.782 571.933L426.485 169.445L211.37 314.162L959.777 571.968L959.773 571.99L410.131 516.649V634.899L959.77 572.012L959.766 572.036L211.37 829.838L426.485 974.555L959.758 572.085L959.749 572.142L519.576 1084H714.564L959.723 572.309L881.876 1065.13H1035.35L960.012 572.295L1205.18 1084H1400.17L959.988 572.136L959.969 572.011L961.354 572.17L1494.51 974.555L1709.63 829.838L961.755 572.216L1509.61 634.899V516.649L961.648 571.821L1709.63 314.162L1494.51 169.445L961.323 571.854L959.966 571.99L959.953 571.905L1400.17 60H1205.18L959.944 571.848L959.919 571.687L1035.35 82.0147H881.876L959.821 571.687L959.796 571.844L714.564 60H519.576Z" fill="url(#paint0_radial_796_12881)"/>
+</g>
+<g filter="url(#filter1_f_796_12881)">
+<circle cx="959.897" cy="572" r="70" fill="#FFC15F"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_796_12881" x="205.08" y="53.7101" width="1510.84" height="1036.58" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="3.14496" result="effect1_foregroundBlur_796_12881"/>
+</filter>
+<filter id="filter1_f_796_12881" x="854.897" y="467" width="210" height="210" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="17.5" result="effect1_foregroundBlur_796_12881"/>
+</filter>
+<radialGradient id="paint0_radial_796_12881" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(961.129 572) rotate(-90.1671) scale(387.002 459.8)">
+<stop stop-color="#FCEDC3"/>
+<stop offset="1" stop-color="#FFC15F" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="clip0_796_12881">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>

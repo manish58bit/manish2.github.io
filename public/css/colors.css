@@ -1,0 +1,17 @@
+:root {
+  --color-primary: #c97f62;
+  --color-white: #ffffff;
+  --color-accent-light: #fedc97;
+  --color-accent-medium: #fd9287;
+  --color-accent-dark: #bf578b;
+  --pale-purple: rgba(224, 211, 222, 1);
+}
+
+/* colors.css */
+/* :root {
+  --carrot-orange: rgba(242, 157, 60, 1);
+  --federal-blue: rgba(27, 6, 94, 1);
+  --mindaro: rgba(237, 246, 125, 1);
+
+  --light-red: rgba(255, 104, 107, 1);
+} */
